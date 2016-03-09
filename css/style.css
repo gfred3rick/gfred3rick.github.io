@@ -1,11 +1,9 @@
-<<<<<<< HEAD
+
   html, body, #map {
         height: 100%;
         width: 100%;
     }
 
-=======
->>>>>>> origin/master
   body {
       font: 400 15px Bebas, Lato, sans-serif;
       line-height: 1.8;
@@ -24,12 +22,8 @@
       color: #303030;
       font-weight: 400;
       margin-bottom: 30px;
-<<<<<<< HEAD
   } 
 
-=======
-  }  
->>>>>>> origin/master
   .jumbotron {
 /*      background-color: #26a69a;*/
       color: white;
@@ -148,11 +142,7 @@
       
   .navbar {
       margin-bottom: 0;
-<<<<<<< HEAD
       background-color: #0078AE;
-=======
-      background-color: #0d47a1;
->>>>>>> origin/master
       z-index: 9999;
       border: 0;
       font-size: 12px !important;
@@ -191,9 +181,4 @@
     .logo {
         font-size: 150px;
     }
-<<<<<<< HEAD
-  }
-=======
-  }
-  
->>>>>>> origin/master
+
